@@ -1,0 +1,3 @@
+<softpatchmanifest originalcommon="344269" newcommon="344577">
+  <file target="GameData/localization.bin" source="gamedata_localization.bin" md5="b3df586e643fe6d7aa8b684fc0ca53d9" size="12402648" />
+</softpatchmanifest>

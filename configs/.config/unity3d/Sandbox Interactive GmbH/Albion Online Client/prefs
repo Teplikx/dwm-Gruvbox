@@ -1,0 +1,78 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="AB_login_path" type="int">1</pref>
+	<pref name="CombinedTrackerHudEntryGuiClusterQueueTracker" type="string">eyJhIjpmYWxzZX0=</pref>
+	<pref name="InventoryOptionsSelectedSizeIndex" type="string">MA==</pref>
+	<pref name="CharacterStatsViewDropdownKillsView" type="string">eyJhIjpbMV19</pref>
+	<pref name="PartyView_Pivot" type="string">VG9wTGVmdA==</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
+	<pref name="IpAddresses" type="string">OTIuMjIzLjg0Ljg0LDJhMDM6OTBjMDo5OTk0Ojo5OTk0LA==</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="unity.player_session_count" type="string">Mw==</pref>
+	<pref name="CombinedTrackerHudEntryGuiChallengeTracker" type="string">eyJhIjpmYWxzZX0=</pref>
+	<pref name="unity_connect.mega_session_id" type="string">NjdkODEzMGYtZmY2Zi01NWFmLTk5YTYtZjA0ODgxMjMxZjdi</pref>
+	<pref name="LastKnownState" type="string">SW5HYW1l</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1280</pref>
+	<pref name="CombinedTrackerHudEntryGuiDestinyTracker" type="string">eyJhIjpmYWxzZX0=</pref>
+	<pref name="Decision_HideGuiMode" type="int">3</pref>
+	<pref name="LastUsedAccountId" type="string">MjcwNzQxOTc=</pref>
+	<pref name="CombinedTrackerHudEntryGuiExpeditionQueueTracker" type="string">eyJhIjpmYWxzZX0=</pref>
+	<pref name="DevideId" type="string">YmIyYTJjNDItMTI4ZS00ZDhkLWE1MDItYzVmNzkxNDczODk0</pref>
+	<pref name="CombinedTrackerHudEntryGuiAccountActivation" type="string">eyJhIjpmYWxzZX0=</pref>
+	<pref name="login.hash" type="string">Rlh5V3h1RUR6dzZIUHF6TWpQUHZaand0ak5rVHF0ZTJqR1hUWkw4S2xVaDYvNm5oeXNUY3NnSHV5NDltR1dla1JxQT0=</pref>
+	<pref name="live03-loginserver.ams.albion.zone:5055_SeenShopTiles" type="string">MTQ3XzBfUyA5NF8wX1MgMTUwXzBfUyAzMjdfMCAzMzVfMF9TIDU1XzBfUyA1NF8wX1MgMTExXzBfUyAyMF8wIDE3XzAgMTlfMCA1Nl8wIDE4XzAgNDFfMCA5NV8wIDQwXzAgMjdfMCA5N18wIDIzOF8wIDIzN18wIDIzNl8wIDMyM18wIDM0MV8wIDMxMl8wIDIzNF8wIDE2Nl8wIDE1M18wIDE0MF8wIDgzXzAgMTU0XzAgMTQ4XzAgMTQxXzAgOTNfMCAxNDRfMCAxNTFfMCAzMjBfMCA4OF8wX1MgMTQzXzAgMTQ1XzAgMTU1XzAgMTU2XzAgMTU3XzAgMTM5XzAgMjI2XzAgMTQyXzAgMTY3XzAgOTBfMCAyMjhfMCAyMjdfMCAxNTJfMCA4NV8wIDE2OF8wIDgxXzAgMTQ2XzAgMTA0XzBfUyA2NF8wX1MgMTAzXzBfUyAxMDVfMF9TIDcyXzBfUyAxMTVfMF9TIDEwOV8wX1MgMTEyXzBfUyAxMDdfMF9TIDEwOF8wX1MgMTA2XzBfUyAxNF8wIDE1XzA=</pref>
+	<pref name="Screenmanager Fullscreen mode Default" type="int">1</pref>
+	<pref name="CombinedTrackerHudEntryGuiPartyNavigation" type="string">eyJhIjpmYWxzZX0=</pref>
+	<pref name="Screenmanager Resolution Height" type="int">720</pref>
+	<pref name="SeenAchievements.HolyCapybar" type="string">Q09NQkFUX0hPTFlTVEFGRlNfR1JFQVQ7Q09NQkFUX0hPTFlTVEFGRlNfRElWSU5FO0NPTUJBVF9IT0xZU1RBRkZTX01PUkdBTkE7Q09NQkFUX0hPTFlTVEFGRlNfSEVMTDtDT01CQVRfSE9MWVNUQUZGU19VTkRFQUQ7Q09NQkFUX0hPTFlTVEFGRlNfQVZBTE9OO0NPTUJBVF9IT0xZU1RBRkZTX0NSWVNUQUw7Q09NQkFUX05BVFVSRVNUQUZGU19OQVRVUkU7Q09NQkFUX05BVFVSRVNUQUZGU19HUkVBVDtDT01CQVRfTkFUVVJFU1RBRkZTX1dJTEQ7Q09NQkFUX05BVFVSRVNUQUZGU19LRUVQRVI7Q09NQkFUX05BVFVSRVNUQUZGU19IRUxMO0NPTUJBVF9OQVRVUkVTVEFGRlNfS0VFUEVSMjtDT01CQVRfTkFUVVJFU1RBRkZTX0NSWVNUQUw7Q09NQkFUX0NMT1RIX1NIT0VTX1NFVDI7Q09NQkFUX0NMT1RIX1NIT0VTX1NFVDM7Q09NQkFUX0NMT1RIX1NIT0VTX1JPWUFMO0NPTUJBVF9DTE9USF9TSE9FU19LRUVQRVI7Q09NQkFUX0NMT1RIX1NIT0VTX0hFTEw7Q09NQkFUX0NMT1RIX1NIT0VTX01PUkdBTkE7Q09NQkFUX0NMT1RIX1NIT0VTX0ZFWTtDT01CQVRfQ0xPVEhfU0hPRVNfQVZBTE9OO0NPTUJBVF9UT1JDSEVTX1RPUkNIO0NPTUJBVF9UT1JDSEVTX0tFRVBFUjtDT01CQVRfVE9SQ0hFU19IRUxMO0NPTUJBVF9UT1JDSEVTX1VOREVBRDtDT01CQVRfVE9SQ0hFU19BVkFMT047Q09NQkFUX1RPUkNIRVNfQ1JZU1RBTDtDT01CQVRfU1dPUkRTO0NPTUJBVF9GUk9TVFNUQUZGUztDT01CQVRfQVhFUzs=</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">768</pref>
+	<pref name="unity_connect.installation_id" type="string">YmVmZjc2NjktZjMzZi05NzU2LTBhZGEtZTc1NzdhMDZmMmJj</pref>
+	<pref name="CombinedTrackerHudEntryGuiQuestTracker" type="string">eyJhIjpmYWxzZX0=</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="PlayTimeSec" type="int">16</pref>
+	<pref name="login.auto" type="string">MQ==</pref>
+	<pref name="InventoryOptionsSelectedSortIndex" type="string">MA==</pref>
+	<pref name="Screenmanager Window Position Y" type="int">0</pref>
+	<pref name="Decision_EquipmentItemSelectSpells" type="int">3</pref>
+	<pref name="27074197_survey_states" type="string">eyJhIjoyNzA3NDE5NywiYiI6e30sImMiOnt9LCJkIjpbXX0=</pref>
+	<pref name="Decision_TownPortalUsageWarning" type="int">1</pref>
+	<pref name="IsFlyoutOpen" type="string">MQ==</pref>
+	<pref name="PartyView_XPosition" type="string">MC4xMDA5NjI1</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1024</pref>
+	<pref name="LastKnownApplicationState" type="string">UXVpdA==</pref>
+	<pref name="ServerLocationBeforeEuropeBeta" type="string">RXVyb3Bl</pref>
+	<pref name="CombinedTrackerHudEntryGuiArenaQueueTracker" type="string">eyJhIjpmYWxzZX0=</pref>
+	<pref name="CombinedTrackerHudEntryGuiJournalTracker" type="string">eyJhIjpmYWxzZX0=</pref>
+	<pref name="ACTIVELY_USES_ZOOM_CAMERA" type="string">MA==</pref>
+	<pref name="Decision_SellConfirmation" type="int">1</pref>
+	<pref name="Decision_YouDied" type="int">3</pref>
+	<pref name="SellPreference" type="string">U2VsbA==</pref>
+	<pref name="LogLevel" type="int">2</pref>
+	<pref name="Decision_SmugglersCratePickup" type="int">1</pref>
+	<pref name="login.auto.decision" type="string">MQ==</pref>
+	<pref name="__stored_keys__" type="string">WyJDb21iaW5lZFRyYWNrZXJIdWRFbnRyeUd1aUFjY291bnRBY3RpdmF0aW9uIiwiQ29tYmluZWRUcmFja2VySHVkRW50cnlHdWlRdWVzdFRyYWNrZXIiLCJDb21iaW5lZFRyYWNrZXJIdWRFbnRyeUd1aVBlcnNvbmFsTmF2aWdhdGlvbiIsIkNvbWJpbmVkVHJhY2tlckh1ZEVudHJ5R3VpUGFydHlOYXZpZ2F0aW9uIiwiQ29tYmluZWRUcmFja2VySHVkRW50cnlHdWlFdmVudFRyYWNrZXIiLCJDb21iaW5lZFRyYWNrZXJIdWRFbnRyeUd1aUpvdXJuYWxUcmFja2VyIiwiQ29tYmluZWRUcmFja2VySHVkRW50cnlHdWlEZXN0aW55VHJhY2tlciIsIkNvbWJpbmVkVHJhY2tlckh1ZEVudHJ5R3VpQ2hhbGxlbmdlVHJhY2tlciIsIkNvbWJpbmVkVHJhY2tlckh1ZEVudHJ5R3VpQXJlbmFRdWV1ZVRyYWNrZXIiLCJDb21iaW5lZFRyYWNrZXJIdWRFbnRyeUd1aUV4cGVkaXRpb25RdWV1ZVRyYWNrZXIiLCJDb21iaW5lZFRyYWNrZXJIdWRFbnRyeUd1aVBhcnR5RmluZGVyVHJhY2tlciIsIkNvbWJpbmVkVHJhY2tlckh1ZEVudHJ5R3VpQ2x1c3RlclF1ZXVlVHJhY2tlciIsIjI3MDc0MTk3X3N1cnZleV9zdGF0ZXMiLCJDaGFyYWN0ZXJTdGF0c1ZpZXdEcm9wZG93bkRlYXRoc1ZpZXciLCJDaGFyYWN0ZXJTdGF0c1ZpZXdEcm9wZG93bktpbGxzVmlldyJd</pref>
+	<pref name="Decision_PersonalSeasonInfo" type="int">3</pref>
+	<pref name="Decision_UseAutoLearn" type="int">1</pref>
+	<pref name="unity.player_sessionid" type="string">MjMyMjUyNjg3MDgwOTIwNTE0OA==</pref>
+	<pref name="OptionsLogTimeStamp" type="string">NjM5Mjc1MDI1MjIzNTU3NzQ5</pref>
+	<pref name="Screenmanager Window Position X" type="int">0</pref>
+	<pref name="unity.cloud_userid" type="string">ZDQyZmUzN2Y0NmE2NWFkMmQ5ZGY1YmUzNzAxMmVlMDY=</pref>
+	<pref name="unity_connect.session_id" type="string">ZGEzNDdkYmMtNjI2Yi0wNmU5LTE5ODUtMGMxNjM4N2NmOWY1</pref>
+	<pref name="Decision_BindToPortal" type="int">1</pref>
+	<pref name="UnityGraphicsQuality" type="int">0</pref>
+	<pref name="JournalLastCategoryBasefaf3c76f-b77c-4d26-8a12-dba9416cc9e9" type="string">U1VNTUFSWQ==</pref>
+	<pref name="CombinedTrackerHudEntryGuiEventTracker" type="string">eyJhIjpmYWxzZX0=</pref>
+	<pref name="CombinedTrackerHudEntryGuiPersonalNavigation" type="string">eyJhIjpmYWxzZX0=</pref>
+	<pref name="Decision_PersistentBankWarning" type="int">3</pref>
+	<pref name="login.last" type="string">NjM5MjcyOTkwNDgzNjE1ODUw</pref>
+	<pref name="Decision_FullStackUsage" type="int">1</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">0</pref>
+	<pref name="faf3c76f-b77c-4d26-8a12-dba9416cc9e9SeenAutoRespcTutorial" type="string">MQ==</pref>
+	<pref name="AttentionItemManagerState" type="string">IEFDVElWSVRZX0hVQl9QRVJTT05BTF9DSEFMTEVOR0VfQURDU0VBU09OXzEwQDIwMjYgQUNUSVZJVFlfSFVCX0ZBQ1RJT05fV0FSRkFSRV8xMV8yMDI2IEFDVElWSVRZX0hVQl9DT05RVUVST1JTX0NIQUxMRU5HRV9HVkdfU0VBU09OXzM0</pref>
+	<pref name="Decision_PvPClusterTypeWarningBlack" type="int">3</pref>
+	<pref name="Decision_EnteredPortalCity" type="int">3</pref>
+	<pref name="CharacterStatsViewDropdownDeathsView" type="string">eyJhIjpbMV19</pref>
+	<pref name="login.accountname" type="string">cy50LmEubC5rLmUucmlhdDE5MDVAZ21haWwuY29t</pref>
+	<pref name="CombinedTrackerHudEntryGuiPartyFinderTracker" type="string">eyJhIjpmYWxzZX0=</pref>
+	<pref name="DestinyTrackerShowPercentage" type="string">MQ==</pref>
+	<pref name="PartyView_YPosition" type="string">LTAuNDMxODY4Nw==</pref>
+</unity_prefs>
